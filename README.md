@@ -1,4 +1,4 @@
-# JavaScript---Mini-Projects
+# JavaScript-Mini-Projects
 - JavaScript Calculator
 - Build a Clock using JavaScript
 - Hex Color Application
