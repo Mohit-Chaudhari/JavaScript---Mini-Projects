@@ -15,4 +15,4 @@
 - Real-time Weather app
 - Movie App
 
-# Reference: https://www.interviewbit.com/blog/javascript-projects/
+Reference: https://www.interviewbit.com/blog/javascript-projects/
